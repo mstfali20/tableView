@@ -16,6 +16,7 @@
 		D5EA1832292D47010088E76A /* tableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5EA1831292D47010088E76A /* tableViewTests.swift */; };
 		D5EA183C292D47010088E76A /* tableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5EA183B292D47010088E76A /* tableViewUITests.swift */; };
 		D5EA183E292D47010088E76A /* tableViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5EA183D292D47010088E76A /* tableViewUITestsLaunchTests.swift */; };
+		D5EA184B292D53590088E76A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5EA184A292D53590088E76A /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D5EA1837292D47010088E76A /* tableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5EA183B292D47010088E76A /* tableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewUITests.swift; sourceTree = "<group>"; };
 		D5EA183D292D47010088E76A /* tableViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D5EA184A292D53590088E76A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D5EA1823292D47010088E76A /* Assets.xcassets */,
 				D5EA1825292D47010088E76A /* LaunchScreen.storyboard */,
 				D5EA1828292D47010088E76A /* Info.plist */,
+				D5EA184A292D53590088E76A /* ViewController2.swift */,
 			);
 			path = tableView;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5EA181F292D47000088E76A /* ViewController.swift in Sources */,
+				D5EA184B292D53590088E76A /* ViewController2.swift in Sources */,
 				D5EA181B292D47000088E76A /* AppDelegate.swift in Sources */,
 				D5EA181D292D47000088E76A /* SceneDelegate.swift in Sources */,
 			);
